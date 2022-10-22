@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/birthday-card-generator/static/css/main.03060247.css",
+    "main.js": "/birthday-card-generator/static/js/main.41016c0a.js",
+    "static/media/Template.png": "/birthday-card-generator/static/media/Template.4221b57d6b42bbc13fd4.png",
+    "static/media/Logo.png": "/birthday-card-generator/static/media/Logo.70cd7c92562bf008193b.png",
+    "index.html": "/birthday-card-generator/index.html",
+    "main.03060247.css.map": "/birthday-card-generator/static/css/main.03060247.css.map",
+    "main.41016c0a.js.map": "/birthday-card-generator/static/js/main.41016c0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03060247.css",
+    "static/js/main.41016c0a.js"
+  ]
+}
