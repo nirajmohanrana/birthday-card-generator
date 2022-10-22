@@ -109,11 +109,13 @@ const App = () => {
               alt="Template"
             />
             <div className="flex flex-col justify-center items-center absolute top-14 left-4">
-              <img
-                className="h-24 rounded-full"
-                src={newImageURL}
-                alt="Profile"
-              />
+              {newImageURL && (
+                <img
+                  className="h-24 rounded-full"
+                  src={newImageURL}
+                  alt="Profile"
+                />
+              )}
               <p className="-mt-7 font-baloo font-extrabold text-lg text-purple-700 text-shadow py-0.5 px-1 rounded-lg">
                 {/* अविनाश विचारे */}
                 {name}
